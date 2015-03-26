@@ -1,5 +1,2 @@
-<div id="footer">
+<p>&copy<?php echo date ("D jS M Y");?><p>
 			
-			<p>&copy<?php echo date ("YMD");?><p>
-			
-		</div>
